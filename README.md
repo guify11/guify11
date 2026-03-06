@@ -1,5 +1,6 @@
-## Hi there 👋
+## Oi 👋
 
+- 🌱 Atualmente estou a aprender: Arduino
 <!--
 **guify11/guify11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
