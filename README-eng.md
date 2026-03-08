@@ -1,4 +1,5 @@
 ## Hi 👋
+[Versao em Portugues](README.md)
 
 - 🌱 I’m currently learning: Arduino
 <!--
